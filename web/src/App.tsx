@@ -1,8 +1,10 @@
 import React from 'react';
+import GlobalStyle from './styles/global';
 
 const App: React.FC = () => (
   <>
-    <h1>Go Barber</h1>
+    <h1>Go ssa</h1>
+    <GlobalStyle />
   </>
 );
 
